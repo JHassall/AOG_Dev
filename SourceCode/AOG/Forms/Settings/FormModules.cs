@@ -1,11 +1,11 @@
-﻿//Please, if you use this give me some credit
+//Please, if you use this give me some credit
 //Copyright BrianTee, copy right out of it.
 
 using System;
 using System.Globalization;
 using System.Windows.Forms;
 
-namespace AgOpenGPS
+namespace AOG
 {
     public partial class FormModules : Form
     {

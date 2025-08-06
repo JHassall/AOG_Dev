@@ -31,6 +31,12 @@
     <Reference Include="ColorPicker">
       <HintPath>..\References\ColorPicker.dll</HintPath>
     </Reference>
+    <Reference Include="WebCameraControl">
+      <HintPath>..\References\WebCameraControl.dll</HintPath>
+    </Reference>
+    <Reference Include="Keypad">
+      <HintPath>..\References\Keypad.dll</HintPath>
+    </Reference>
     <Reference Include="System.Windows.Forms.MapControl">
       <HintPath>..\References\System.Windows.Forms.MapControl.dll</HintPath>
     </Reference>
