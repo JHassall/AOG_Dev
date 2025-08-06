@@ -4,6 +4,8 @@
 
 This repository contains a complete migration of the AgOpenGPS development codebase from .NET Framework 4.8 to .NET 8.0, providing significant performance improvements and modern development capabilities.
 
+> 📋 **For detailed technical information about all changes made during the migration process, see [MIGRATION_TECHNICAL_SPEC.md](MIGRATION_TECHNICAL_SPEC.md)**
+
 ### 🎯 **Project Goals**
 
 - **Community Contribution**: Provide a modern .NET 8.0 version of AOG_Dev for the agricultural GPS guidance community
