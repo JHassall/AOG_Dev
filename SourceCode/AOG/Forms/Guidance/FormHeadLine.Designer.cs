@@ -1,4 +1,4 @@
-﻿namespace AOG
+namespace AOG
 {
     partial class FormHeadLine
     {
@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            this.oglSelf = new OpenTK.GLControl();
+            this.oglSelf = new OpenTK.WinForms.GLControl();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.headingGroupBox = new System.Windows.Forms.GroupBox();
             this.lblToolWidth = new System.Windows.Forms.Label();
@@ -457,7 +457,7 @@
 
         #endregion
 
-        private OpenTK.GLControl oglSelf;
+        private OpenTK.WinForms.GLControl oglSelf;
         private System.Windows.Forms.Timer timer1;
         private System.Windows.Forms.Button btnExit;
         private System.Windows.Forms.Button btnBLength;

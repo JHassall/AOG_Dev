@@ -1,4 +1,4 @@
-﻿namespace AOG.Forms.Field
+namespace AOG.Forms.Field
 {
     partial class FormAgShareDownloader
     {
@@ -31,7 +31,7 @@
             this.lbFields = new System.Windows.Forms.ListView();
             this.chName = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.btnOpen = new System.Windows.Forms.Button();
-            this.glControl1 = new OpenTK.GLControl();
+            this.glControl1 = new OpenTK.WinForms.GLControl();
             this.btnClose = new System.Windows.Forms.Button();
             this.lblSelectedField = new System.Windows.Forms.Label();
             this.SuspendLayout();
@@ -140,7 +140,7 @@
         private System.Windows.Forms.ListView lbFields;
         private System.Windows.Forms.ColumnHeader chName;
         private System.Windows.Forms.Button btnOpen;
-        private OpenTK.GLControl glControl1;
+        private OpenTK.WinForms.GLControl glControl1;
         private System.Windows.Forms.Button btnClose;
         private System.Windows.Forms.Label lblSelectedField;
     }
